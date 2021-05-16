@@ -1,0 +1,12 @@
+[submodule "PyG-ogbn-arxiv"]
+	path = PyG-ogbn-arxiv
+	url = https://github.com/ytchx1999/PyG-ogbn-arxiv.git
+[submodule "PyG-ogbn-mag"]
+	path = PyG-ogbn-mag
+	url = git@github.com:ytchx1999/PyG-ogbn-mag.git
+[submodule "PyG-ogbn-products"]
+	path = PyG-ogbn-products
+	url = git@github.com:ytchx1999/PyG-ogbn-products.git
+[submodule "PyG-ogbn-proteins"]
+	path = PyG-ogbn-proteins
+	url = git@github.com:ytchx1999/PyG-ogbn-proteins.git
