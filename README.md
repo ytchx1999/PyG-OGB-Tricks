@@ -1,5 +1,8 @@
 # PyG-OGB-Tricks
+
 Bags of Tricks in OGB (node classification) with GCNs.
+
+---
 
 ### OGBn-Arxiv
 
@@ -20,4 +23,6 @@ Bags of Tricks in OGB (node classification) with GCNs.
 
 + **Code:** [**https://github.com/ytchx1999/PyG-ogbn-proteins**](https://github.com/ytchx1999/PyG-ogbn-proteins)
 + **Leaderboard**: [**https://ogb.stanford.edu/docs/leader_nodeprop/#ogbn-proteins**](https://ogb.stanford.edu/docs/leader_nodeprop/#ogbn-proteins)
+
+---
 
