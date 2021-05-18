@@ -56,19 +56,48 @@ In this work, we take an initial step towards answering the questions above by p
 
 ### `ogbn-arxiv`
 
-<img src="./image/ogbn-arxiv.png" alt="ogbn-arxiv" style="zoom:40%;" />
+| **Model**                      | **Test(%)** | **Valid(%)** |
+| :--------------- | :---------: | :----------: |
+| MLP                            |    55.50    |    57.65     |
+| GCN (3)                        |    71.74    |    73.00     |
+| GCN + FLAG (3)                 |    72.04    |    73.30     |
+| SIGN                           |    71.95    |    73.23     |
+| DeeperGCN                      |    71.92    |    72.62     |
+| DAGNN                          |    72.09    |    72.90     |
+| JKNet                          |    72.19    |    73.35     |
+| GCNII                          |    72.74    |      —       |
+| UniMP                          |    73.11    |  **74.50**   |
+| **GCN\_res** (8)               |    72.62    |    73.69     |
+| **GCN\_res** + **FLAG** (8)    |    72.76    |    73.89     |
+| **GCN\_res** + **C&S\_v2** (8) |    73.13    |    74.45     |
+| **GCN\_res** + **C&S\_v3** (8) |  **73.91**  |    73.61     |
 
 ### `ogbn-mag`
 
-<img src="./image/ogbn-mag.png" alt="ogbn-mag" style="zoom:40%;" />
+| **Model**                                    | **Test(%)** | **Valid(%)** |
+| :------------------------------------------- | :---------: | :----------: |
+| GraphSAINT (R-GCN aggr)                      |    47.51    |    48.37     |
+| **GraphSAINT** + **metapath2vec**            |    49.66    |    50.66     |
+| **GraphSAINT** + **metapath2vec** + **C&S**  |    48.43    |    49.36     |
+| **GraphSAINT** + **metapath2vec** + **FLAG** |  **49.69**  |  **50.88**   |
 
 ### `ogbn-products`
 
-<img src="./image/ogbn-products.png" alt="ogbn-products" style="zoom:40%;" />
+| **Model**                                            | **Test(%)** | **Valid(%)** |
+| :--------------------------------------------------- | :---------: | :----------: |
+| Full-batch GraphSAGE                                 |    78.50    |    92.24     |
+| GraphSAGE w/NS                                       |    78.70    |    91.70     |
+| GraphSAGE w/NS + FLAG                                |    79.36    |    92.05     |
+| **GraphSAGE w/NS** + **BN** + **C&S**                |    80.41    |    92.38     |
+| **GraphSAGE w/NS** + **BN** + **C&S** + **node2vec** |  **81.54**  |  **92.38**   |
 
 ### `ogbn-proteins`
 
-<img src="./image/ogbn-proteins.png" alt="ogbn-proteins" style="zoom:40%;" />
+| **Model**                         | **Test(%)** | **Valid(%)** |
+| :-------------------------------- | :---------: | :----------: |
+| **GEN**                           |    81.30    |    85.74     |
+| **GEN** + **FLAG**                |    81.29    |    85.87     |
+| **GEN** + **FLAG** + **node2vec** |  **82.51**  |  **86.56**   |
 
 ### t-SNE visualization on `ogbn-arxiv`
 
