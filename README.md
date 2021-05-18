@@ -32,7 +32,7 @@ Paper[].
 
 ### GCN_res Framework
 
-<img src="./image/GCN_res_fig.pdf" alt="GCN_res Framework" style="zoom:80%;" />
+<img src="./image/GCN_res_fig.jpeg" style="zoom:20%;" />
 
 Overview of GCN_res Framework with a 4-layer toy example. The GCNs-Block consists of four parts: GCNsConv layer, Norm layer, activation function, and Dropout unit. Data stream of residual connections is indicated by arrows.
 
@@ -40,7 +40,7 @@ In this paper, we propose GCN res Framework by two main strategies in the forwar
 
 ### Embedding Usage
 
-![Embedding Usage](./image/Embedding.pdf)
+<img src="./image/Embedding.jpeg" alt="Embedding Usage" style="zoom:24%;" />
 
 Embedding Usage for GCNs. We merge input featrues with embedding to generate new features for GCNs.
 
@@ -56,19 +56,19 @@ In this work, we take an initial step towards answering the questions above by p
 
 ### `ogbn-arxiv`
 
-<img src="./image/ogbn-arxiv.png" alt="ogbn-arxiv" style="zoom:50%;" />
+<img src="./image/ogbn-arxiv.png" alt="ogbn-arxiv" style="zoom:40%;" />
 
 ### `ogbn-mag`
 
-<img src="./image/ogbn-mag.png" alt="ogbn-mag" style="zoom:50%;" />
+<img src="./image/ogbn-mag.png" alt="ogbn-mag" style="zoom:40%;" />
 
 ### `ogbn-products`
 
-<img src="./image/ogbn-products.png" alt="ogbn-products" style="zoom:50%;" />
+<img src="./image/ogbn-products.png" alt="ogbn-products" style="zoom:40%;" />
 
 ### `ogbn-proteins`
 
-<img src="./image/ogbn-proteins.png" alt="ogbn-proteins" style="zoom:50%;" />
+<img src="./image/ogbn-proteins.png" alt="ogbn-proteins" style="zoom:40%;" />
 
 ### t-SNE visualization on `ogbn-arxiv`
 
