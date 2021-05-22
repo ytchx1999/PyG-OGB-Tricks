@@ -10,23 +10,23 @@ Our paper is available at [https://arxiv.org/pdf/2105.08330.pdf](https://arxiv.o
 
 #### `ogbn-arxiv`
 
-+ **Code:** [**https://github.com/ytchx1999/PyG-ogbn-arxiv**](https://github.com/ytchx1999/PyG-ogbn-arxiv)
-+ **Leaderboard**: [**https://ogb.stanford.edu/docs/leader_nodeprop/#ogbn-arxiv**](https://ogb.stanford.edu/docs/leader_nodeprop/#ogbn-arxiv)
++ **Code:** [https://github.com/ytchx1999/PyG-ogbn-arxiv](https://github.com/ytchx1999/PyG-ogbn-arxiv)
++ **Leaderboard**: [https://ogb.stanford.edu/docs/leader_nodeprop/#ogbn-arxiv](https://ogb.stanford.edu/docs/leader_nodeprop/#ogbn-arxiv)
 
 #### `ogbn-mag`
 
-+ **Code:** [**https://github.com/ytchx1999/PyG-ogbn-mag**](https://github.com/ytchx1999/PyG-ogbn-mag)
-+ **Leaderboard**: [**https://ogb.stanford.edu/docs/leader_nodeprop/#ogbn-mag**](https://ogb.stanford.edu/docs/leader_nodeprop/#ogbn-mag)
++ **Code:** [https://github.com/ytchx1999/PyG-ogbn-mag](https://github.com/ytchx1999/PyG-ogbn-mag)
++ **Leaderboard**: [https://ogb.stanford.edu/docs/leader_nodeprop/#ogbn-mag](https://ogb.stanford.edu/docs/leader_nodeprop/#ogbn-mag)
 
 #### `ogbn-products`
 
-+ **Code:** [**https://github.com/ytchx1999/PyG-ogbn-products**](https://github.com/ytchx1999/PyG-ogbn-products)
-+ **Leaderboard**: [**https://ogb.stanford.edu/docs/leader_nodeprop/#ogbn-products**](https://ogb.stanford.edu/docs/leader_nodeprop/#ogbn-products)
++ **Code:** [https://github.com/ytchx1999/PyG-ogbn-products](https://github.com/ytchx1999/PyG-ogbn-products)
++ **Leaderboard**: [https://ogb.stanford.edu/docs/leader_nodeprop/#ogbn-products](https://ogb.stanford.edu/docs/leader_nodeprop/#ogbn-products)
 
 #### `ogbn-proteins`
 
-+ **Code:** [**https://github.com/ytchx1999/PyG-ogbn-proteins**](https://github.com/ytchx1999/PyG-ogbn-proteins)
-+ **Leaderboard**: [**https://ogb.stanford.edu/docs/leader_nodeprop/#ogbn-proteins**](https://ogb.stanford.edu/docs/leader_nodeprop/#ogbn-proteins)
++ **Code:** [https://github.com/ytchx1999/PyG-ogbn-proteins](https://github.com/ytchx1999/PyG-ogbn-proteins)
++ **Leaderboard**: [https://ogb.stanford.edu/docs/leader_nodeprop/#ogbn-proteins](https://ogb.stanford.edu/docs/leader_nodeprop/#ogbn-proteins)
 
 ## *Methods*
 
