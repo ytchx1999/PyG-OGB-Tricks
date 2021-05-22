@@ -107,7 +107,12 @@ In this work, we take an initial step towards answering the questions above by p
 
 Please cite our paper if you find anything helpful,
 
-```
-
+```tex
+@article{chi2021residual,
+  title={Residual Network and Embedding Usage: New Tricks of Node Classification with Graph Convolutional Networks},
+  author={Chi, Huixuan and Wang, Yuying and Hao, Qinfen and Xia, Hong},
+  journal={arXiv preprint arXiv:2105.08330},
+  year={2021}
+}
 ```
 
