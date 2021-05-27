@@ -80,6 +80,8 @@ In this work, we take an initial step towards answering the questions above by p
 | **GraphSAINT** + **metapath2vec**            |   49.66 ± 0.22   |   50.66 ± 0.17   |
 | **GraphSAINT** + **metapath2vec** + **C&S**  |   48.43 ± 0.24   |   49.36 ± 0.24   |
 | **GraphSAINT** + **metapath2vec** + **FLAG** | **49.69 ± 0.22** | **50.88 ± 0.18** |
+| R-GSN                                        |   50.32 ± 0.37   |   51.82 ± 0.41   |
+| **R-GSN + metapath2vec**s                    | **51.09 ± 0.38** | **52.95 ± 0.42** |
 
 ### `ogbn-products`
 
