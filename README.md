@@ -1,6 +1,6 @@
 # Residual Network and Embedding Usage: New Tricks of Node Classification with Graph Convolutional Networks
 
-[![](https://img.shields.io/badge/CSDN-@智慧的旋风-red.svg?style=plastic)](https://blog.csdn.net/weixin_41650348/)  [![img](https://img.shields.io/badge/contributions-welcome-success.svg?style=plastic&logo=Github)](https://blog.csdn.net/weixin_41650348/) ![GitHub](https://img.shields.io/github/license/ytchx1999/PyG-OGB-Tricks?logo=Github&style=plastic) ![GitHub last commit](https://img.shields.io/github/last-commit/ytchx1999/PyG-OGB-Tricks?logo=github&style=plastic) ![GitHub Repo stars](https://img.shields.io/github/stars/ytchx1999/PyG-OGB-Tricks?style=social) ![GitHub forks](https://img.shields.io/github/forks/ytchx1999/PyG-OGB-Tricks?style=social)  
+[![](https://img.shields.io/badge/CSDN-@智慧的旋风-red.svg?style=plastic)](https://blog.csdn.net/weixin_41650348/)  [![img](https://img.shields.io/badge/contributions-welcome-success.svg?style=plastic&logo=Github)](https://github.com/ytchx1999/PyG-OGB-Tricks) ![GitHub](https://img.shields.io/github/license/ytchx1999/PyG-OGB-Tricks?logo=Github&style=plastic) ![GitHub last commit](https://img.shields.io/github/last-commit/ytchx1999/PyG-OGB-Tricks?logo=github&style=plastic) ![GitHub Repo stars](https://img.shields.io/github/stars/ytchx1999/PyG-OGB-Tricks?style=social) ![GitHub forks](https://img.shields.io/github/forks/ytchx1999/PyG-OGB-Tricks?style=social)  
 
 **[Huixuan Chi](https://scholar.google.com.hk/citations?hl=zh-CN&user=mSLoo54AAAAJ), Yuying Wang, Qinfen Hao, Hong Xia**
 
@@ -17,22 +17,22 @@ My [blog](https://blog.csdn.net/weixin_41650348/article/details/113916600?spm=10
 #### `ogbn-arxiv`
 
 + **Code:** [https://github.com/ytchx1999/PyG-ogbn-arxiv](https://github.com/ytchx1999/PyG-ogbn-arxiv)
-+ **Leaderboard**: [https://ogb.stanford.edu/docs/leader_nodeprop/#ogbn-arxiv](https://ogb.stanford.edu/docs/leader_nodeprop/#ogbn-arxiv)
++ [**Leaderboard**](https://ogb.stanford.edu/docs/leader_nodeprop/#ogbn-arxiv)
 
 #### `ogbn-mag`
 
 + **Code:** [https://github.com/ytchx1999/PyG-ogbn-mag](https://github.com/ytchx1999/PyG-ogbn-mag)
-+ **Leaderboard**: [https://ogb.stanford.edu/docs/leader_nodeprop/#ogbn-mag](https://ogb.stanford.edu/docs/leader_nodeprop/#ogbn-mag)
++ [**Leaderboard**](https://ogb.stanford.edu/docs/leader_nodeprop/#ogbn-mag)
 
 #### `ogbn-products`
 
 + **Code:** [https://github.com/ytchx1999/PyG-ogbn-products](https://github.com/ytchx1999/PyG-ogbn-products)
-+ **Leaderboard**: [https://ogb.stanford.edu/docs/leader_nodeprop/#ogbn-products](https://ogb.stanford.edu/docs/leader_nodeprop/#ogbn-products)
++ [**Leaderboard**](https://ogb.stanford.edu/docs/leader_nodeprop/#ogbn-products)
 
 #### `ogbn-proteins`
 
 + **Code:** [https://github.com/ytchx1999/PyG-ogbn-proteins](https://github.com/ytchx1999/PyG-ogbn-proteins)
-+ **Leaderboard**: [https://ogb.stanford.edu/docs/leader_nodeprop/#ogbn-proteins](https://ogb.stanford.edu/docs/leader_nodeprop/#ogbn-proteins)
++ [**Leaderboard**](https://ogb.stanford.edu/docs/leader_nodeprop/#ogbn-proteins)
 
 ## *Methods*
 
@@ -56,9 +56,11 @@ In this work, we take an initial step towards answering the questions above by p
 
 ###  Requirements
 
-- PyTorch >= 1.6.0
-- torch-geometric >= 1.6.0
-- ogb >= 1.1.1
+```python
+pytorch >= 1.6.0
+torch-geometric >= 1.6.0
+ogb >= 1.1.1
+```
 
 ### `ogbn-arxiv`
 
