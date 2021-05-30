@@ -117,7 +117,7 @@ ogb >= 1.1.1
 
 Please cite our paper if you find anything helpful,
 
-```tex
+```bibtex
 @article{chi2021residual,
   title={Residual Network and Embedding Usage: New Tricks of Node Classification with Graph Convolutional Networks},
   author={Chi, Huixuan and Wang, Yuying and Hao, Qinfen and Xia, Hong},
