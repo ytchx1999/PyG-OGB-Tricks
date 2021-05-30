@@ -1,10 +1,16 @@
 # Residual Network and Embedding Usage: New Tricks of Node Classification with Graph Convolutional Networks
 
+[![](https://img.shields.io/badge/CSDN-@智慧的旋风-red.svg?style=plastic)](https://blog.csdn.net/weixin_41650348/)  [![img](https://img.shields.io/badge/contributions-welcome-success.svg?style=plastic&logo=Github)](https://blog.csdn.net/weixin_41650348/) ![GitHub](https://img.shields.io/github/license/ytchx1999/PyG-OGB-Tricks?logo=Github&style=plastic) ![GitHub last commit](https://img.shields.io/github/last-commit/ytchx1999/PyG-OGB-Tricks?logo=github&style=plastic) ![GitHub Repo stars](https://img.shields.io/github/stars/ytchx1999/PyG-OGB-Tricks?style=social) ![GitHub forks](https://img.shields.io/github/forks/ytchx1999/PyG-OGB-Tricks?style=social)  
+
+**[Huixuan Chi](https://scholar.google.com.hk/citations?hl=zh-CN&user=mSLoo54AAAAJ), Yuying Wang, Qinfen Hao, Hong Xia**
+
 Bags of Tricks in OGB (node classification) with GCNs.
 
 In this work, we propose two novel tricks of GCNs for node classification tasks:  **GCN\_res Framework** and **Embedding Usage**, which can improve various GCNs significantly. Experiments on [Open Graph Benchmark](https://ogb.stanford.edu/)  (OGB) show that, by combining these techniques, the test accuracy of various GCNs increases by **1.21**%~**2.84**%. 
 
 Our paper is available at [https://arxiv.org/pdf/2105.08330.pdf](https://arxiv.org/pdf/2105.08330.pdf).
+
+My [blog](https://blog.csdn.net/weixin_41650348/article/details/113916600?spm=1001.2014.3001.5501) records the detailed ranking process on OGB.
 
 ## *Overview*
 
