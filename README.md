@@ -31,7 +31,8 @@ My [blog](https://blog.csdn.net/weixin_41650348/article/details/113916600?spm=10
 
 #### `ogbn-proteins`
 
-+ **Code:** [https://github.com/ytchx1999/PyG-ogbn-proteins](https://github.com/ytchx1999/PyG-ogbn-proteins)
++ **PyG-Code:** [https://github.com/ytchx1999/PyG-ogbn-proteins](https://github.com/ytchx1999/PyG-ogbn-proteins)
++ **DGL-Code:** [https://github.com/ytchx1999/PyG-OGB-Tricks/tree/main/DGL-ogbn-proteins](https://github.com/ytchx1999/PyG-OGB-Tricks/tree/main/DGL-ogbn-proteins)
 + [**Leaderboard**](https://ogb.stanford.edu/docs/leader_nodeprop/#ogbn-proteins)
 
 ## *Methods*
@@ -109,6 +110,8 @@ ogb >= 1.1.1
 | **GEN**                           |   81.30 ± 0.65   |   85.74 ± 0.53   |
 | **GEN** + **FLAG**                |   81.29 ± 0.67   |   85.87 ± 0.54   |
 | **GEN** + **FLAG** + **node2vec** | **82.51 ± 0.43** | **86.56 ± 0.37** |
+| GAT                |   86.82 ± 0.21   |   91.94 ± 0.03   |
+| **GAT** + **labels** + **node2vec**                |   **87.11 ± 0.07**   |   **92.17 ± 0.11**   |
 
 ### t-SNE visualization on `ogbn-arxiv`
 
