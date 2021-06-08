@@ -59,6 +59,7 @@ In this work, we take an initial step towards answering the questions above by p
 ```python
 pytorch >= 1.6.0
 torch-geometric >= 1.6.0
+dgl >= 0.5.0
 ogb >= 1.1.1
 ```
 
