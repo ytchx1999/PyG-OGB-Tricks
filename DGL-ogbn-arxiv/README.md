@@ -1,5 +1,5 @@
 # GAT-node2vec + BoT + self-KD
-This is another attempt at Tricks of GNNs. Our paper is available at [https://arxiv.org/pdf/2105.08330.pdf](https://arxiv.org/pdf/2105.08330.pdf).
+This is another attempt at Tricks of GNNs. Our paper is available at [https://arxiv.org/abs/2105.08330](https://arxiv.org/abs/2105.08330).
 
 We refer to the codes of [GAT+norm. adj.+label reuse](https://github.com/Espylapiza/dgl/tree/master/examples/pytorch/ogb/ogbn-arxiv) by Wang (DGL) and [GAT+label reuse+self KD](https://github.com/ShunliRen/dgl/tree/master/examples/pytorch/ogb/ogbn-arxiv) by Ren. 
 
@@ -9,7 +9,7 @@ We refer to the codes of [GAT+norm. adj.+label reuse](https://github.com/Espylap
 
 + Embedding Usage
   + Add node2vec embedding ---- the usage of node2vec greatly accelerates the convergence of GAT.
-  + More details can be found in our paper ([https://arxiv.org/pdf/2105.08330.pdf](https://arxiv.org/pdf/2105.08330.pdf)).
+  + More details can be found in our paper ([https://arxiv.org/abs/2105.08330](https://arxiv.org/abs/2105.08330)).
 + Bags of Tricks (BoT)
   + GAT(norm.adj.)
   + Label Reuse
