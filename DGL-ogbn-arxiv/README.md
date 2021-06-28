@@ -1,14 +1,20 @@
 # GAT-node2vec + BoT + self-KD
-This is an improvement of the [GAT](https://github.com/ShunliRen/dgl/tree/master/examples/pytorch/ogb/ogbn-arxiv) model by Wang (DGL) and Ren, using node2vec embedding. 
+This is another attempt at Tricks of GNNs. Our paper is available at [https://arxiv.org/pdf/2105.08330.pdf](https://arxiv.org/pdf/2105.08330.pdf).
 
-Our paper is available at [https://arxiv.org/pdf/2105.08330.pdf](https://arxiv.org/pdf/2105.08330.pdf).
+We refer to the codes of [GAT+norm. adj.+label reuse](https://github.com/Espylapiza/dgl/tree/master/examples/pytorch/ogb/ogbn-arxiv) by Wang (DGL) and [GAT+label reuse+self KD](https://github.com/ShunliRen/dgl/tree/master/examples/pytorch/ogb/ogbn-arxiv) by Ren. 
 
 ### ogbn-arxiv
 
 #### Improvement Strategy：
 
-+ adjust hidden and embedding dim.
-+ add node2vec embedding ---- the usage of node2vec greatly accelerates the convergence of GAT.
++ Embedding Usage
+  + Add node2vec embedding ---- the usage of node2vec greatly accelerates the convergence of GAT.
+  + More details can be found in our paper ([https://arxiv.org/pdf/2105.08330.pdf](https://arxiv.org/pdf/2105.08330.pdf)).
++ Bags of Tricks (BoT)
+  + GAT(norm.adj.)
+  + Label Reuse
+  + More details can be found in *Bag of Tricks for Node Classification with Graph Neural Networks* (https://arxiv.org/abs/2103.13355)
++ Self-Knowledge Distillation (self-KD)
 
 #### Environmental Requirements
 
