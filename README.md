@@ -8,7 +8,7 @@ Bags of Tricks in OGB (node classification) with GCNs.
 
 In this work, we propose two novel tricks of GCNs for node classification tasks:  **GCN\_res Framework** and **Embedding Usage**, which can improve various GCNs significantly. Experiments on [Open Graph Benchmark](https://ogb.stanford.edu/)  (OGB) show that, by combining these techniques, the test accuracy of various GCNs increases by **1.21**%~**2.84**%. 
 
-Our paper is available at [https://arxiv.org/pdf/2105.08330.pdf](https://arxiv.org/pdf/2105.08330.pdf).
+Our paper is available at https://arxiv.org/abs/2105.08330.
 
 My [blog](https://blog.csdn.net/weixin_41650348/article/details/113916600?spm=1001.2014.3001.5501) records the detailed ranking process on OGB.
 
