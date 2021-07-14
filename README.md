@@ -1,4 +1,4 @@
-# Residual Network and Embedding Usage: New Tricks of Node Classification with Graph Convolutional Networks
+# [Residual Network and Embedding Usage: New Tricks of Node Classification with Graph Convolutional](https://arxiv.org/abs/2105.08330)
 
 [![](https://img.shields.io/badge/CSDN-@智慧的旋风-red.svg?style=plastic)](https://blog.csdn.net/weixin_41650348/)  [![img](https://img.shields.io/badge/contributions-welcome-success.svg?style=plastic&logo=Github)](https://github.com/ytchx1999/PyG-OGB-Tricks) ![GitHub](https://img.shields.io/github/license/ytchx1999/PyG-OGB-Tricks?logo=Github&style=plastic) ![GitHub last commit](https://img.shields.io/github/last-commit/ytchx1999/PyG-OGB-Tricks?logo=github&style=plastic) ![GitHub Repo stars](https://img.shields.io/github/stars/ytchx1999/PyG-OGB-Tricks?style=social) ![GitHub forks](https://img.shields.io/github/forks/ytchx1999/PyG-OGB-Tricks?style=social)  
 
