@@ -13,7 +13,7 @@ def save_embedding(model):
 def main():
     parser = argparse.ArgumentParser(description='OGBN-Proteins (Node2Vec)')
     parser.add_argument('--device', type=int, default=0)
-    parser.add_argument('--embedding_dim', type=int, default=64)
+    parser.add_argument('--embedding_dim', type=int, default=16)
     parser.add_argument('--walk_length', type=int, default=80)
     parser.add_argument('--context_size', type=int, default=20)
     parser.add_argument('--walks_per_node', type=int, default=10)
